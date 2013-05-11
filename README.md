@@ -1,4 +1,4 @@
 TIN-XMPP
 ========
 
-TIN Proje
+TIN Projekt
