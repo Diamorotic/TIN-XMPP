@@ -1,3 +1,5 @@
-Buu!
+#Buu!
+#Srodowisko na stacjonarce gotowe.
 
-Œrodowisko na stacjonarce gotowe.
+print("Badabuu")
+
